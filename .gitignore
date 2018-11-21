@@ -4,3 +4,5 @@ dist/
 yarn.lock
 coverage/
 .vscode
+!/dist/print.js
+!/dist/print.css
